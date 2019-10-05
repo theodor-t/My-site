@@ -107,6 +107,10 @@ header nav li {
     transition: all 0.3s;
 }
 
+header nav a { 
+    text-decoration: none; /* Отменяем подчеркивание у ссылки */
+   } 
+
 header nav a:hover {
     color: #fff;
 }
