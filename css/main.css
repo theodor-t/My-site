@@ -190,9 +190,9 @@ header nav span {
 .arenda #play_btn{
     display: inline-block;
     width: 398px;
-    height: 78px;
+    height: 200px;
     background: url('../img/play_btn.png') no-repeat;
-    margin-top: 40px;
+    margin-top: 170px;
 }
 
 
