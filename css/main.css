@@ -108,7 +108,7 @@ header nav li {
 }
 
 header nav a:hover {
-    color: #12242d;
+    color: #fff;
 }
 
 header nav span {
@@ -192,7 +192,7 @@ header nav span {
     width: 398px;
     height: 200px;
     background: url('../img/play_btn.png') no-repeat;
-    margin-top: 170px;
+    margin-top: 60px;
 }
 
 
